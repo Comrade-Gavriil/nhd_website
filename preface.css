@@ -48,15 +48,49 @@ body {background-color: #2988bc;}
     background-color: #ED8C72;
 }
 
-.pageInfo {
-    background-color: #F4eade;
-    padding: 1em;
+.content {
     position: relative;
     align-self: center;
     top: 5em;
-    width: 90%;
-    left: 5%;
+}
+
+.information {
+    background-color: #F4eade;
+    position: relative;
+    padding: 1em;
     border: 10px;
+    left: 5%;
+    width: 55%;
     border-color: black;
     border-radius: 10px;
+    height: 40em;
+
+}
+
+.tabContent {
+    background-color: #2f496e;
+    text-align: center;
+    font-size: 24pt;
+    position: relative;
+    padding-left: 1em;
+    border: 10px;
+    left: 5%;
+    width: 55%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.histContext {
+    margin-bottom: 10px;
+}
+
+.pictures {
+    background-color: #ED8C72;
+    position: relative;
+    float: left;
+    padding: 1em;
+    left: 65%;
+    width: 25%;
+    border-radius: 10px;
+    height: 40em;
 }
