@@ -1,0 +1,62 @@
+body {background-color: #2988bc;}
+
+
+.mainTitle {
+    color: black;
+    font-size: 200%;
+    text-align: center;
+    font-family: 'Cinzel', sans-serif;
+    font-style: bold;
+    position: absolute;
+    top: .25em;
+    left: 0em;
+    width: 100%;
+    margin-top: 0em;
+    }
+.titleImg {
+    position: absolute;
+    background-color: skyblue;
+    height: 5em;
+    top: -3em;
+    opacity: 0.3;
+    background-image: url(stockphoto.jpg);
+    }
+.navBar {
+    position: relative;
+    list-style-type: none;
+    margin: 0em;
+    padding: 0em;
+    overflow: hidden;
+    top:3em;
+    width: 100%;
+    background-color:#2f496e;
+}
+.navElm {
+    float: left;
+    font-size: 14pt;
+}
+.a {
+    display: block;
+    color: #F4eade;
+    text-align: center;
+    padding: 0.5em;
+    text-decoration: none;
+
+}
+
+.a:hover{
+    background-color: #ED8C72;
+}
+
+.pageInfo {
+    background-color: #F4eade;
+    padding: 1em;
+    position: relative;
+    align-self: center;
+    top: 5em;
+    width: 90%;
+    left: 5%;
+    border: 10px;
+    border-color: black;
+    border-radius: 10px;
+}
