@@ -54,35 +54,19 @@ body {background-color: #2988bc;}
     top: 5em;
 }
 
-.information {
-    background-color: #F4eade;
-    position: relative;
-    padding: 1em;
-    border: 10px;
-    left: 5%;
-    width: 55%;
-    border-color: black;
-    border-radius: 10px;
-    height: 40em;
-
-}
-
-.tabContent {
+.histContext {
+    margin-bottom: 15px;
+    color: #F4eade;
     background-color: #2f496e;
     text-align: center;
     font-size: 24pt;
     position: relative;
     padding-left: 1em;
-    border: 10px;
+    border: 20px;
     left: 5%;
-    width: 55%;
-    border-radius: 10px;
-    margin-bottom: 10px;
+    width: 85%;
 }
 
-.histContext {
-    margin-bottom: 10px;
-}
 
 .pictures {
     background-color: #ED8C72;
@@ -92,5 +76,29 @@ body {background-color: #2988bc;}
     left: 65%;
     width: 25%;
     border-radius: 10px;
-    height: 40em;
+}
+
+
+.information {
+    background-color: #F4eade;
+    position: relative;
+    padding: 1em;
+    border: 10px;
+    left: 5%;
+    width: 55%;
+    border-color: black;
+    border-radius: 10px;
+}
+
+.infoBox {
+    padding: 20px;
+}
+
+.studentComposed {
+    background-color:#efd9c8;
+    padding: .5em;
+}
+
+.infoBoxSub {
+    text-align: center;
 }
