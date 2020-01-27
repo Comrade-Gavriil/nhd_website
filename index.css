@@ -21,6 +21,10 @@
         opacity: 0.3;
         background-image: url(stockphoto.jpg);
         }
+    .titlequote {
+       text-align: center;
+       font-family: times new roman; 
+    }
     .navBar {
         position: relative;
         list-style-type: none;
@@ -97,3 +101,4 @@
         background-color: #efd9c8;
         font-size: 24pt;
     }
+   
