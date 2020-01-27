@@ -90,3 +90,10 @@
     .bottemMargin {
         margin: 8em;
     }
+
+    .thesisText {
+        margin: 1em;
+        padding: 1em;
+        background-color: #efd9c8;
+        font-size: 24pt;
+    }
