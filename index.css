@@ -23,7 +23,8 @@
         }
     .titlequote {
        text-align: center;
-       font-family: times new roman; 
+       font-family: times new roman;
+       font-size: 36px; 
     }
     .navBar {
         position: relative;
