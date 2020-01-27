@@ -103,3 +103,8 @@ body {background-color: #2988bc;}
     text-align: center;
 }
 
+.infoSectionImg {
+    position: relative;
+    left: 32.5%;
+    width: 35%;
+}

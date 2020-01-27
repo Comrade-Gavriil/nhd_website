@@ -85,6 +85,9 @@
         padding: 10px;
         margin: 10px;
     }
+    .frontPageImg {
+        height: 20.8em;
+    }
     .info {
         padding: 2px;
     }
@@ -102,4 +105,8 @@
         background-color: #efd9c8;
         font-size: 24pt;
     }
-   
+    .thesisImg {
+        position: relative;
+        left: 35%;
+        width: 30%;
+    }
