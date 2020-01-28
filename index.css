@@ -105,19 +105,16 @@
         background-color: #efd9c8;
         font-size: 24pt;
     }
-<<<<<<< HEAD
     .embDoc {
         width: 100%;
-        height: 100%;
+        height: 5 em;
         text-align: center;
         border: 10px;
         border-color: #efd9c8;
     }
    
-=======
     .thesisImg {
         position: relative;
         left: 35%;
         width: 30%;
     }
->>>>>>> 9aaada537a5bfac5d3243cc350ec3edd7cc8a33b
