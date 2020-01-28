@@ -102,4 +102,10 @@
         background-color: #efd9c8;
         font-size: 24pt;
     }
+    .embDoc {
+        width: 100%;
+        text-align: center;
+        border: 10px;
+        border-color: #efd9c8;
+    }
    
