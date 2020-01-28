@@ -103,8 +103,8 @@
         padding: 1em;
         background-color: #efd9c8;
         font-size: 24pt;
-    }
-    .embDoc {
+    }   
+     .embDoc {
         width: 60%;
         height: 40em;
         padding-left: 20%;
@@ -113,9 +113,21 @@
         border-color: #efd9c8;
         margin: 2em;
     }
-   
-    .thesisImg {
+
+        .thesisImg {
         position: relative;
         left: 35%;
         width: 30%;
+    }
+    .imgCaption {
+        position: relative;
+        text-align: center;
+        font-size: 8pt;
+        color: grey;
+    }
+    .imgCitation {
+        position: relative;
+        text-align: center;
+        font-size: 8pt;
+        color: grey;
     }
