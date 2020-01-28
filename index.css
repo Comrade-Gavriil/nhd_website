@@ -131,3 +131,7 @@
         font-size: 8pt;
         color: grey;
     }
+    .video {
+        position: relative;
+        left:33%;
+    }
