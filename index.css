@@ -106,11 +106,13 @@
         font-size: 24pt;
     }
     .embDoc {
-        width: 100%;
-        height: 5em;
+        width: 60%;
+        height: 40em;
+        padding-left: 20%;
         text-align: center;
         border: 10px;
         border-color: #efd9c8;
+        margin: 2em;
     }
    
     .thesisImg {
