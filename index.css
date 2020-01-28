@@ -131,7 +131,8 @@
         font-size: 8pt;
         color: grey;
     }
-    .video {
+    .definisionVid {
         position: relative;
-        left:33%;
+        left: 25%;
+        width: 50%;
     }
