@@ -1,6 +1,5 @@
     body {background-color: #2988bc;}
 
-
     .mainTitle {
         color: black;
         font-size: 200%;
@@ -86,7 +85,7 @@
         margin: 10px;
     }
     .frontPageImg {
-        height: 20.8em;
+        height: 13em;
     }
     .info {
         padding: 2px;
