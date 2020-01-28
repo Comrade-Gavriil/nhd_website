@@ -131,3 +131,8 @@
         font-size: 8pt;
         color: grey;
     }
+    .definisionVid {
+        position: relative;
+        left: 25%;
+        width: 50%;
+    }
